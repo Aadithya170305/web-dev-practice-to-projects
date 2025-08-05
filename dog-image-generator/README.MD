@@ -1,6 +1,7 @@
 1. Random Dog Image Generator
 
 This is a simple Javascript Project that fetches and displays Random dog images using [Dog CEO API](https://dog.ceo/dog-api/)
+
 It's part of my ongoing web development practice to improve API handling, DOM manipulation, and responsive design.
 
 2. Features of this project
