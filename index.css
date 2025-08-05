@@ -1,0 +1,64 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(37, 35, 36);
+  color: white;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container {
+  width: 90%;
+  max-width: 600px;
+  padding: 30px;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  border: 3px solid white;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+#buttonId {
+  margin-top: 20px;
+  padding: 12px 20px;
+  font-size: 16px;
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#buttonId:hover {
+  background-color: #e68900;
+}
+
+/* Image Box */
+#dogpicturesImages {
+  margin-top: 30px;
+}
+
+#imageBox {
+  margin-top: 15px;
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #2d2d2d;
+}
+
+#imageBox img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+.hidden {
+  display: none;
+}
