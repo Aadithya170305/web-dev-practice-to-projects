@@ -24,8 +24,8 @@ This repository is a testament to my philosophy of "learning by doing." Its prim
 2. Provide an environment for experimenting with new technologies and ideas.
 3. Serve as a comprehensive log of my professional development and growth.
 4. Lay the groundwork for future, more complex full-stack applications.
-5. 
 
+   
 Future, more extensive full-stack and original end-to-end projects will be hosted in a dedicated repository.
 
 Thank you for your interest. Recruiters, developers, and mentors are encouraged to review the contents, star the repository, or provide feedback.
