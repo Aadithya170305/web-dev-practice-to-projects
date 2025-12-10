@@ -1,4 +1,4 @@
-# web-dev-practice-to-projects
+# HTML Projects
 This repository serves as a portfolio of my web development practice, showcasing my progression from fundamental HTML/CSS skills to advanced JavaScript, API integration, and responsive design principles. It documents my journey of continuous learning and skill enhancement.
 
 Project Lifecycle & Timelines
